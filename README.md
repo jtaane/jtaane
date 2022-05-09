@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jtaane
 - 👀 I’m interested in ...Changing pace and finding a new career
-- 🌱 I’m currently learning ...Data Science 
+- 🌱 I’m currently learning ...Full Stack
 - 💞️ I’m looking to collaborate on ...you tell me. 
 - 📫 How to reach me ...right here 
 
